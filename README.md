@@ -6,6 +6,7 @@ Scraper for the Maryland Division of Corrections Inmate Lookup
 [R](https://www.r-project.org/) (required) 
 
 [RStudio](https://www.rstudio.com/products/rstudio/download/) (optional, recommended) 
+
 A decent internet connection
 
 
