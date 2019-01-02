@@ -1,6 +1,6 @@
 # Load required packages
-
-required.packages("plyr")
+install.packages("plyr")
+library("plyr")
 
 # Store the inmate lookup site url
 base.url <- "http://www.dpscs.state.md.us/inmate/"
