@@ -46,7 +46,9 @@ This will need to be updated if the number of of query results displayed on a pa
 npage <- 15
 ```
 
-## Program Notes
+## Notes
+
+### MDOC Inmate Lookup
 
 The MDOC Inmate Lookup uses 2 types of url based queries:
 
@@ -64,6 +66,7 @@ http://www.dpscs.state.md.us/inmate/search.do?searchType=detail&id=79172211
 
 A query that returns multiple results will show a page with embedded links to the detail page for each inmate matched by the query.
 
+### Program Functions
 
 The main program function is letter.contacts. It has has one argument, letter, which defines the last name value of the name type url query.
 
